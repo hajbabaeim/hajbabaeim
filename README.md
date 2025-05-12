@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Welcome" width="150"/>
 </div>
 
-<h1 align="center">Mohammadreza Hajbabaei 👋</h1>
+<h1 align="center">Mo Hajbabaei 👋</h1>
 <p align="center">Backend Golang Developer | Microservices • AWS • Kubernetes • Blockchain</p>
 
 <div align="center">
