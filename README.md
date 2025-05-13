@@ -19,11 +19,11 @@
 ---
 
 ## 👩‍💻 About Me
-I’m a passionate **Backend Golang Developer** based in Yerevan, Armenia, with over **8 years** of experience designing, building, and operating high-performance, scalable microservices and distributed systems. My work spans crypto exchanges, payment gateways, and blockchain bridges, with a focus on reliability, observability, and automation.
+I’m a Backend Go developer with 8+ years’ experience building high-performance, scalable microservices and distributed systems—especially in crypto, payments, and blockchain—focusing on reliability, observability, and automation.
 
-- 🔭 Currently building a **low-latency crypto exchange matching engine** and gRPC payment gateway at Golden SB Tech Group  
-- 🌱 Learning advanced patterns in **domain-driven design** (DDD) and **event sourcing**  
-- ⚡ In my free time I experiment with **smart contracts**, contribute to open-source Go libraries, and mentor junior developers  
+🔭 Building a low-latency exchange engine & gRPC payment gateway
+🌱 Exploring domain-driven design (DDD) & event sourcing
+⚡ Experimenting with smart contracts, contributing to Go OSS, and mentoring juniors
 
 ---
 
