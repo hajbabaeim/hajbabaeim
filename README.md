@@ -19,11 +19,14 @@
 ---
 
 ## 👩‍💻 About Me
-I’m a Backend Go developer with 8+ years’ experience building high-performance, scalable microservices and distributed systems—especially in crypto, payments, and blockchain—focusing on reliability, observability, and automation.
+I’m a Backend Go developer with 8+ years’ experience building high-performance, scalable microservices and distributed systems—especially in goalng, payment sytems, and blockchain—focusing on reliability, observability, and automation.
 
-🔭 Building a low-latency exchange engine & gRPC payment gateway
+
+🔭 Building a low-latency golang applications with gRPC api-gateway
+
 🌱 Exploring domain-driven design (DDD) & event sourcing
-⚡ Experimenting with smart contracts, contributing to Go OSS, and mentoring juniors
+
+⚡ Experimenting with new technologies, reading books, and contributing to Go projects
 
 ---
 
