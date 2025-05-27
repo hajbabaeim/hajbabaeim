@@ -50,7 +50,7 @@ I’m a Backend Go developer with 8+ years’ experience building high-performan
 - **CI/CD & IaC:** GitHub Actions, Terraform, Docker, Kubernetes, AWS EKS  
 - **Observability:** Jaeger, Prometheus, Grafana, ELK Stack  
 - **Blockchain:** Solidity, Hardhat, EVM, Token Bridges  
-- **Methodologies:** DDD, CQRS, Event-Driven Architecture, TDD, Agile/Scrum  
+- **Methodologies:** DDD, CQRS, Event Sourcing, Event-Driven Architecture, TDD, Agile/Scrum  
 
 ---
 
